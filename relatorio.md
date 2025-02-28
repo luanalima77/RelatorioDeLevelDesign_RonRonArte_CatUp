@@ -12,12 +12,11 @@
 <h2>Levels do jogo</h2>
 <ul>
     
-- [Level 1: início e menu](#level-1-início-e-menu)
-- [Level 2: modo tutorial](#level-2-modo-tutorial)
-- [Level 3: fase 1 - fase contemporânea](#level-3-fase-1---fase-contemporânea)
-- [Level 4: fase 2 - fase moderna](#level-4-fase-2---fase-moderna)
-- [Level 5: fase 3 - fase medieval](#level-5-fase-3---fase-medieval)
-- [Level 6: fase 4 - fase referente à Pré-História](#level-6-fase-4---fase-referente-à-pré-história)
+- [Level 1: modo tutorial](#level-1-modo-tutorial)
+- [Level 3: fase 1 - fase contemporânea](#level-2-fase-1---fase-contemporânea)
+- [Level 4: fase 2 - fase moderna](#level-3-fase-2---fase-moderna)
+- [Level 5: fase 3 - fase medieval](#level-4-fase-3---fase-medieval)
+- [Level 6: fase 4 - fase referente à Pré-História](#level-5-fase-4---fase-referente-à-pré-história)
 </ul>
 
 <h2>Rascunhos desenvolvidos</h2>
@@ -34,17 +33,7 @@
 <p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
 
 
-
-<h2>Level 1: início e menu</h2>
-<p>Responsáveis pelo level design: Felipe Neves, Luiz Hinuy e Nicolli Venino.</p>
-<p>Situação inicial do level: .</p>
-<p>Imagem do level:</p>
-
-<h3>Descrição da jogabilidade e experiência do jogador:</h3>
-<p>Colocar texto aqui</p> <br> <br>
-
-
-<h2>Level 2: modo tutorial</h2>
+<h2>Level 1: modo tutorial</h2>
 <p>Responsáveis pelo level design: Felipe Neves, Luiz Hinuy e Nicolli Venino.</p>
 <p>Situação inicial do level: finalizado.</p>
 <p>Imagem do level:</p>
@@ -77,7 +66,7 @@ Segue o texto completo do tutorial:
 </ul><br> <br>
 
 
-<h2>Level 3: fase 1 - fase contemporânea</h2>
+<h2>Level 2: fase 1 - fase contemporânea</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: Fase finalizada, e tela de vitória precisa de refinamento e mais informações</p>
 <p>Imagem do level:
@@ -91,7 +80,7 @@ Segue o texto completo do tutorial:
 
 
 
-<h2>Level 4: fase 2 - fase moderna</h2>
+<h2>Level 3: fase 2 - fase moderna</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
@@ -106,7 +95,7 @@ Segue o texto completo do tutorial:
 
 
 
-<h2>Level 5: fase 3 - fase medieval</h2>
+<h2>Level 4: fase 3 - fase medieval</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
@@ -116,7 +105,7 @@ Segue o texto completo do tutorial:
 
 
 
-<h2>Level 6: fase 4 - fase referente à Pré-História</h2>
+<h2>Level 5: fase 4 - fase referente à Pré-História</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
