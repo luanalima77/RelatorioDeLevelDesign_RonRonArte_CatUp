@@ -32,11 +32,15 @@
 <h2>Level 1: início e menu</h2>
 <p>Responsáveis pelo level design: Felipe Neves, Luiz Hinuy e Nicolli Venino.</p>
 <p>Situação inicial do level: .</p>
+<p>Imagem do level:</p>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 
 <h2>Level 2: modo tutorial</h2>
 <p>Responsáveis pelo level design: Felipe Neves, Luiz Hinuy e Nicolli Venino.</p>
 <p>Situação inicial do level: finalizado.</p>
+<p>Imagem do level:</p>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 
 
