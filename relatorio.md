@@ -20,7 +20,7 @@
 <p>Como rascunhos desenvolvidos do jogo RonRonArte, é possível mencionar o diagrama de cenas e a concept art do game, como mostram as figuras 1 e 2.</p>
 <h4 align = "center">Figura 1: Concept Art - RonRonArte</h4>
 
-![Concept Art - RonRonArte](https://github.com/user-attachments/assets/a677422f-3ba7-451c-8b8e-cda80a3d78d4)
+<img src= "https://github.com/user-attachments/assets/a677422f-3ba7-451c-8b8e-cda80a3d78d4)" style = "border: 1px solid #ffffff">
 
 <h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
 
