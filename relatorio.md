@@ -27,7 +27,7 @@
 <h4 align = "center">Figura 2: Diagrama de cenas- RonRonArte</h4>
 
 ![Diagrama de Cenas](https://github.com/user-attachments/assets/f3be92a6-14b0-4eb1-8219-3b76fd87e4fe)
-<h4 align = "center">Fonte: autoria própria (2025).</h4>
+<h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
 
 <h2>Level 1: início e menu</h2>
 <p>Responsáveis pelo level design: Felipe Neves, Luiz Hinuy e Nicolli Venino.</p>
