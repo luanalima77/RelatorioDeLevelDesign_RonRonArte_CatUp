@@ -57,15 +57,21 @@
  Após todas as informações, o jogador toca no pombo, que permanece parado na tela, para iniciar o jogo. E em seguida aparecem mais três alvos que se movem lentamente, um após o outro, para facilitar a execução dos comandos passados nos textos iniciais.
 
 Segue o texto completo do tutorial:
-Caixa de texto 1: “Olá humano, bem-vindo ao RonRonarte!”
-Caixa de texto 2: “Seu gato está prestes a embarcar em uma jornada artística! Para incentivá-lo a jogar, siga estas instruções:”
-Caixa de texto 3: “Pegue um petisco para incentivar seu gato.”
-Caixa de texto 4: “Mostre a ração e mova-a sobre a tela acompanhando os alvos que aparecem”
-Caixa de texto 5: “No ínicio não exija muito,recomendamos recompensar seu gato por todos os toques na tela até ele se interessar”
-Caixa de texto 6: “Seu gatinho pode revelar partes de uma pintura clássica no Modo História ou criar uma obra autoral no Modo Criativo!”
-Caixa de texto 7: “Quando o gato começar a tocar nos alvos sem a necessidade do petisco na tela, ofereça uma recompensa quando o jogo indicar”
-Caixa de texto 8: “Está pronto para a aventura? Clique no pombo para começar o jogo!”
-</p> <br> <br>
+</p> 
+
+<ul>
+    <li>Caixa de texto 1: “Olá humano, bem-vindo ao RonRonarte!”</li>
+    <li>Caixa de texto 2: “Seu gato está prestes a embarcar em uma jornada artística! Para incentivá-lo a jogar, siga estas instruções:”</li>
+    <li> Caixa de texto 3: “Pegue um petisco para incentivar seu gato.”</li>
+    <li> Caixa de texto 4: “Mostre a ração e mova-a sobre a tela acompanhando os alvos que aparecem”</li>
+    <li> Caixa de texto 5: “No ínicio não exija muito,recomendamos recompensar seu gato por todos os toques na tela até ele se interessar”</li>
+    <li> Caixa de texto 6: “Seu gatinho pode revelar partes de uma pintura clássica no Modo História ou criar uma obra autoral no Modo Criativo!”</li>
+    <li> Caixa de texto 7: “Quando o gato começar a tocar nos alvos sem a necessidade do petisco na tela, ofereça uma recompensa quando o jogo indicar”</li>
+     <li> Caixa de texto 8: “Está pronto para a aventura? Clique no pombo para começar o jogo!”</li>
+
+
+   
+</ul><br> <br>
 
 
 <h2>Level 3: fase 1 - fase contemporânea</h2>
