@@ -11,20 +11,13 @@
 
 <h2>Levels do jogo</h2>
 <ul>
-    <li>[Level 1: início e menu](#level-1-início-e-menu)</li>
-    <li>[Level 2: modo tutorial](#level-2-modo-tutorial)</li>
-    <li>Level 3: fase 1 - fase contemporânea</li>
-    <li>Level 4: fase 2 - fase moderna</li>
-    <li>Level 5:  fase 3 - fase medieval</li>
-    <li>Level 6:  fase 4 - fase referente à Pré-História</li>
-
     
-- 
+- [Level 1: início e menu](#level-1-início-e-menu)
+- [Level 2: modo tutorial](#level-2-modo-tutorial)
 - [Level 3: fase 1 - fase contemporânea](#level-3-fase-1---fase-contemporânea)
 - [Level 4: fase 2 - fase moderna](#level-4-fase-2---fase-moderna)
 - [Level 5: fase 3 - fase medieval](#level-5-fase-3---fase-medieval)
 - [Level 6: fase 4 - fase referente à Pré-História](#level-6-fase-4---fase-referente-à-pré-história)
-   
 </ul>
 
 <h2>Rascunhos desenvolvidos</h2>
