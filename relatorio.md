@@ -17,6 +17,7 @@
 </ul>
 
 <h2>Rascunhos desenvolvidos</h2>
+<p>Como rascunhos desenvolvidos do jogo RonRonArte, é possível mencionar o diagrama de cenas e a concept art do game, como mostram as figuras 1 e 2.</p>
 <h4 align = "center">Figura 1: Concept Art - RonRonArte</h4>
 
 ![Concept Art - RonRonArte](<Concept Art - RonRonArte.png>)
