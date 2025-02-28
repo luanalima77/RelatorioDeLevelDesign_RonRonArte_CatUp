@@ -37,7 +37,7 @@
 <p>Imagem do level:</p>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-
+<p>Colocar texto aqui</p> <br> <br>
 
 
 <h2>Level 2: modo tutorial</h2>
@@ -46,7 +46,7 @@
 <p>Imagem do level:</p>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-
+<p>Colocar texto aqui</p> <br> <br>
 
 
 <h2>Level 3: fase 1 - fase contemporânea</h2>
@@ -55,7 +55,7 @@
 <p>Imagem do level:</p>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-
+<p>Colocar texto aqui</p> <br> <br>
 
 
 
@@ -70,7 +70,7 @@
 <h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-
+<p>Na fase moderna, como o próprio nome sugere, objetiva-se que o jogador preencha uma pintura do período moderno. Isso ocorreria por intermédio do toque (por parte do gato) no bichinho que aparece na tela. Nesse sentido, pela perspectiva do gato, a experiência almejada seria incentivar, paulatinamente, o instinto de caça do animal. Por outro lado, em relação ao tutor, pretende-se que ele entenda mais sobre o desempenho do gato na fase e que ele conheça mais sobre a obra e o artista no nível em questão. Portanto, tal mecânica envolve tanto tutor quanto gato, contribuindo para a progressão do player no jogo.</p> <br> <br>
 
 
 
@@ -80,6 +80,7 @@
 <p>Imagem do level:</p>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
+<p>Colocar texto aqui</p> <br> <br>
 
 
 
@@ -89,7 +90,7 @@
 <p>Imagem do level:</p>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-
+<p>Colocar texto aqui</p> <br> <br>
 
 
 
