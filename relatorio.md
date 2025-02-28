@@ -83,8 +83,8 @@ Segue o texto completo do tutorial:
 <p>Imagem do level:
 
 <p align = "center">Figura 5: level design da fase 1.</p>
-<img style = "border: 1px solid #ffffff" width="1247" alt="fase1" src="https://github.com/user-attachments/assets/f6e49ada-e080-464a-b798-c7307eec036d" /></p>
-<h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
+<img width="1247" alt="fase1" src="https://github.com/user-attachments/assets/f6e49ada-e080-464a-b798-c7307eec036d"/></p>
+<p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 <p>Essa fase introduz a mecânica de revelar o quadro quando o gato acerta o alvo que será utilizada em todas as outras fases seguintes, o quadro utilizado faz parte da era contemporânea da história da arte. Por ser a primeira fase após o tutorial, a fase é fácil de ser completada, ao atingir 3 alvos o gato ganha a fase. </p> <br> <br>
