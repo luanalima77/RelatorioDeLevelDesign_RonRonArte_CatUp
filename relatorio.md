@@ -18,5 +18,6 @@
 
 <h2>Rascunhos desenvolvidos</h2>
 <h3>Figura 1: Concept Art - RonRonArte</h3>
+
 ![Concept Art - RonRonArte](<Concept Art - RonRonArte.png>)
 <h3>Fonte: autoria própria (2025).</h3>
