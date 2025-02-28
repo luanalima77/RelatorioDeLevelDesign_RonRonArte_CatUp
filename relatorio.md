@@ -11,7 +11,7 @@
 
 <h2>Levels do jogo</h2>
 <ul>
-    <li>Level 1</li>
-    <li>Level 1</li>
-    <li>Level 1</li>
+    <li>Level 1 (trocar texto)</li>
+    <li>Level 1 (trocar texto)</li>
+    <li>Level 1 (trocar texto)</li>
 </ul>
