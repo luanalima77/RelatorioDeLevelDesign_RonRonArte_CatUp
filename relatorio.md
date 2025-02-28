@@ -29,3 +29,10 @@
 ![Diagrama de Cenas](https://github.com/user-attachments/assets/f3be92a6-14b0-4eb1-8219-3b76fd87e4fe)
 <h4 align = "center">Fonte: autoria própria (2025).</h4>
 
+
+<h2>Level 1: modo tutorial</h2>
+<p>Responsáveis pelo level design: Felipe Neves, Luiz Hinuy e Nicolli Venino.</p>
+<p>Situação inicial do level: finalizado.</p>
+<h3>Descrição da jogabilidade e experiência do jogador:</h3>
+
+
