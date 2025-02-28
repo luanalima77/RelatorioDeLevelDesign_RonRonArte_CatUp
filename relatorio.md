@@ -64,7 +64,7 @@
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
 
-<h4 align = "center">Figura 6: level design da fase 2 (tela</h4>
+<h4 align = "center">Figura 6: level design da fase 2 (preenchimento da pintura e tela de vitória).</h4>
 
 ![fase 2](https://github.com/user-attachments/assets/84518510-f4a3-43c0-ae12-44cf2342c2b4)
 <h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
