@@ -49,7 +49,10 @@
 <p>Situação inicial do level: finalizado.</p>
 <p>Imagem do level:</p>
 <p align = "center">Figura 4: level design do tutorial</p>
-<img width="401" alt="image" src="https://github.com/user-attachments/assets/f7923626-82d4-4fba-81f6-efece28dac2c" />
+<div align = "center">
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/f7923626-82d4-4fba-81f6-efece28dac2c" />
+</div>
+
 <p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
