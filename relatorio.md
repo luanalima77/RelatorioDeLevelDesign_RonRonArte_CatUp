@@ -55,7 +55,7 @@
 <p>Imagem do level:
 
 <h4 align = "center">Figura 5: level design da fase 1.</h4>
-<img width="1247" alt="fase1" src="https://github.com/user-attachments/assets/f6e49ada-e080-464a-b798-c7307eec036d" /></p>
+<img style = "border 1px solid #ffffff" width="1247" alt="fase1" src="https://github.com/user-attachments/assets/f6e49ada-e080-464a-b798-c7307eec036d" /></p>
 <h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
