@@ -51,8 +51,10 @@
 
 <h2>Level 3: fase 1 - fase contemporânea</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
-<p>Situação inicial do level: finalizado.</p>
-<p>Imagem do level:</p>
+<p>Situação inicial do level: Fase finalizada, e tela de vitória precisa de refinamento e mais informações</p>
+<p>Imagem do level:<img width="1247" alt="fase1" src="https://github.com/user-attachments/assets/f6e49ada-e080-464a-b798-c7307eec036d" /></p>
+
+<h3>Descrição da jogabilidade e experiência do jogador: Essa fase introduz a mecânica de revelar o quadro quando o gato acerta o alvo que será utilizada em todas as outras fases seguintes, o quadro utilizado faz parte da era contemporânea da história da arte. Por ser a primeira fase após o tutorial, a fase é fácil de ser completada, ao atingir 3 alvos o gato ganha a fase. </h3>
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 <p>Colocar texto aqui</p> <br> <br>
