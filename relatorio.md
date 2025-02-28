@@ -7,7 +7,7 @@
 
 
 <h2>Síntese da proposta do jogo</h2>
-<p>RonRonArte é um jogo facilita a interação entre gatos e tutores por meio de uma viagem no tempo nos períodos da arte. Enquanto o gato toca em bichinhos que aparecem nas fases, ele vai preenchendo pinturas e, ao final de cada fase, o tutor pode ver o desempenho do seu pet, bem como informações gerais da obra e do artista em si.</p>
+<p>RonRonArte é um jogo que facilita a interação entre gatos e tutores por meio de uma viagem no tempo nos períodos da arte. Enquanto o gato toca em bichinhos que aparecem nas fases, ele preenche pinturas e, ao final de cada fase, o tutor pode ver o desempenho do seu pet, bem como informações da obra e do artista em si, que pertence a alguma minoria (diversidade).</p>
 
 <h2>Levels do jogo</h2>
 <ul>
