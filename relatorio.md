@@ -43,21 +43,29 @@
 <h2>Level 3: fase 1 - fase contemporânea</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: finalizado.</p>
+<p>Imagem do level:</p>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 
 <h2>Level 4: fase 2 - fase moderna</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
+<p>Imagem do level:</p>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 
 <h2>Level 4: fase 3 - fase medieval</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
+<p>Imagem do level:</p>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 
 <h2>Level 4: fase 4 - fase referente à Pré-História</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
+<p>Imagem do level:</p>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
 
 
