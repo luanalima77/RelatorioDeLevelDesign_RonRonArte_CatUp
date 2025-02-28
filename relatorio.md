@@ -22,7 +22,7 @@
 
 ![Concept Art - RonRonArte](<Concept Art - RonRonArte.png>)
 
-<h4 align = "center">Fonte: autoria própria (2025).</h4>
+<h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
 
 <h4 align = "center">Figura 2: Diagrama de cenas- RonRonArte</h4>
 
