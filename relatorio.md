@@ -11,9 +11,13 @@
 
 <h2>Levels do jogo</h2>
 <ul>
-    <li>Level 1 (trocar texto)</li>
-    <li>Level 1 (trocar texto)</li>
-    <li>Level 1 (trocar texto)</li>
+    <li>Level 1: início e menu</li>
+    <li>Level 2: modo tutorial</li>
+    <li>Level 3: fase 1 - fase contemporânea</li>
+    <li>Level 4: fase 2 - fase moderna</li>
+    <li>Level 5:  fase 3 - fase medieval</li>
+    <li>Level 6:  fase 4 - fase referente à Pré-História</li>
+   
 </ul>
 
 <h2>Rascunhos desenvolvidos</h2>
@@ -21,7 +25,7 @@
 <p align = "center">Figura 1: Concept Art - RonRonArte</p>
 
 ![Concept Art - RonRonArte](https://github.com/user-attachments/assets/1e4f1709-5214-4a98-8d81-694bd9b472df)
-<h4 align = "center">Fonte: autoria própria (2025).</h4> <br> <br>
+<p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
 
 
 <p align = "center">Figura 2: Diagrama de cenas- RonRonArte</p>
@@ -78,7 +82,7 @@
 
 
 
-<h2>Level 4: fase 3 - fase medieval</h2>
+<h2>Level 5: fase 3 - fase medieval</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
@@ -88,7 +92,7 @@
 
 
 
-<h2>Level 4: fase 4 - fase referente à Pré-História</h2>
+<h2>Level 6: fase 4 - fase referente à Pré-História</h2>
 <p>Responsáveis pelo level design: Carlos Eduardo Quaglia, Eduardo Jesus e Luana de Jesus.</p>
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
