@@ -26,7 +26,7 @@
 ![Concept Art - RonRonArte](https://github.com/user-attachments/assets/1e4f1709-5214-4a98-8d81-694bd9b472df)
 <p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
 
-Caso queira acessar a Concept Art com as animações, [clique aqui](https://www.figma.com/proto/O28uXtCzHpYgGD5H7lxE97/Concept-Art---RonRonArte?content-scaling=fixed&kind=proto&node-id=15-4&page-id=0%3A1&scaling=scale-down) <br> <br>
+Caso queira acessar a Concept Art com as animações, [clique aqui](https://www.figma.com/proto/O28uXtCzHpYgGD5H7lxE97/Concept-Art---RonRonArte?content-scaling=fixed&kind=proto&node-id=15-4&page-id=0%3A1&scaling=scale-down) <br> <br> <br>
 
 
 <p align = "center">Figura 2: Diagrama de cenas- RonRonArte</p>
