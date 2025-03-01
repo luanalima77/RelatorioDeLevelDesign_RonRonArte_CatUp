@@ -26,11 +26,15 @@
 ![Concept Art - RonRonArte](https://github.com/user-attachments/assets/1e4f1709-5214-4a98-8d81-694bd9b472df)
 <p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
 
+Caso queira acessar a Concept Art com as animações, [clique aqui](https://www.figma.com/proto/O28uXtCzHpYgGD5H7lxE97/Concept-Art---RonRonArte?content-scaling=fixed&kind=proto&node-id=15-4&page-id=0%3A1&scaling=scale-down) <br>
+
 
 <p align = "center">Figura 2: Diagrama de cenas- RonRonArte</p>
 
 ![Diagrama de Cenas](https://github.com/user-attachments/assets/f3be92a6-14b0-4eb1-8219-3b76fd87e4fe)
 <p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
+
+Caso queira ver o diagrama de cenas no Figma, [clique aqui](https://www.figma.com/design/M9iVkJjgLuhcVnC6v2aUAY/Diagrama-de-Cenas?node-id=0-1&p=f&t=fk8yJVrGBBaLzt2T-0) <br>
 
 
 <h2>Level 1: modo tutorial</h2>
