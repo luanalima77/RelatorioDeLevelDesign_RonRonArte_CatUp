@@ -126,7 +126,7 @@ Segue o texto completo do tutorial:
 
 
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-<p>Colocar texto aqui</p> <br> <br>
+<p>Na fase da Pré-História, estaremos referênciando a Arte Rupestre vigente na época. A mecânica desse level se dará semelhante às dos demais levels, com o objeitvo do jogador (gato) tocar nos animais-alvo que passarão pela tela a fim de pintar o quadro de arte rupestre presente na tela, bem como receber a recompensa concedida pelo tutor. A tela de vitória desse level apresentará mais informações sobre o "período artístico" analisado, e, informações sobre o desempenho do gato, fazendo com que o tutor possa aumentar seu conhecimento sobre a arte rupestre e ao mesmo tempo compreender a curva de evolução de seu pet.</p> <br> <br>
 
 
 
