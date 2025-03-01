@@ -100,8 +100,13 @@ Segue o texto completo do tutorial:
 <p>Situação inicial do level: a ser desenvolvido.</p>
 <p>Imagem do level:</p>
 
+<p align = "center">Figura 7: level design da fase 3 (preenchimento da pintura e tela de vitória).</p>
+
+![image](https://github.com/user-attachments/assets/5fad627a-5445-491d-83c6-1bd768319940)
+<p align = "center">Fonte: autoria própria (2025).</p> <br> <br>
+
 <h3>Descrição da jogabilidade e experiência do jogador:</h3>
-<p>Colocar texto aqui</p> <br> <br>
+<p>Assim como nas fases anteriores, onde o jogador tinha que preencher a tela da pintura para ganhar, nessa aqui também não é diferente. Continuando a utilizar-se dessa mecânica, essa fase apresenta uma pintura da era medieval, assim fazendo com que o Tutor possa aumentar mais seu conhecimento sobre a arte desse período e ainda sim receber um feedback de como seu gato foi nessa fase.</p> <br> <br>
 
 
 
